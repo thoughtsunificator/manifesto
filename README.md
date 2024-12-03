@@ -8,4 +8,4 @@
 - Intuitive but not repetitive; aims for a progressive user/developer experience with well thought and minimal default behaviors.
 - Think about the stack from the very bottom of it up to the highest heights (is it extensible? can it be easily debugged?).
 
-What about you? What's your manifest?
+What about you? What's your manifesto?
