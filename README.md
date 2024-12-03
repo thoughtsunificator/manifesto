@@ -3,7 +3,7 @@
 - If it's not usable it's not secure.
 - Less configuration means less complication.
 - Always aim to be a [motherfucker](http://motherfuckingwebsite.com/).
-- As programming is a way to dematerialize by conceptualizing the complexities of the world around us it should be as verbose as one can take.
+- Programming can be seen a way for us to dematerialize by conceptualizing the complexities of the world around us which is why it should be as verbose as one can take.
 - Write documentation for every types of users not just for your buddies.
 - Intuitive but not repetitive; aims for a progressive user/developer experience with well thought and minimal default behaviors.
 - Think about the stack from the very bottom of it up to the highest heights (is it extensible? can it be easily debugged?).
