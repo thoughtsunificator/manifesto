@@ -1,4 +1,4 @@
-- A developer is also a user
+- A developer is also a user.
 - Be users/developers centric not trends centric.
 - If it's not usable it's not secure.
 - Less configuration means less complication.
