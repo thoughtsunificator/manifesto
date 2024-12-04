@@ -8,5 +8,6 @@
 - Intuitive but not repetitive; aims for a progressive user/developer experience with well thought and minimal default behaviors.
 - Think about the stack from the very bottom of it up to the highest heights (is it extensible? can it be easily debugged?).
 - Making software is good, maintaining them alive is even better. Learn from the past by looking at the state of other OSS projects and what can be done (better) to keep people afloat.
+- Any software attempting to "solve" a problem bigger than himself should never be trusted in the first place. Swiss Army knife softwares are evil.
 
 What about you? What's your manifesto?
