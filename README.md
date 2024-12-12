@@ -10,7 +10,7 @@
 - Justify any architectural or design choice.
 - Intuitive but not repetitive; aims for a progressive user/developer experience with well thought and minimal default behaviors.
 - Think about the stack from the very bottom of it up to the highest heights (is it extensible? can it be easily debugged? can things be reversed?).
-- Making software is good, maintaining them alive is even better. Learn from the past by looking at the state of other OSS projects and what can be done (better) to things afloat.
+- Making software is good, maintaining them alive is even better. Learn from the past by looking at the state of other OSS projects and what can be done (better) to keep things afloat.
 - Any software attempting to "solve" a problem bigger than himself should never be trusted in the first place. I consider Swiss Army knife softwares as evil.
 - Source code is certainly, without any doubt, NOT a reasonable replacement for documentation.
 - Try to flow smoothly along whatever specifications govern your ecosystem.
