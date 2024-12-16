@@ -1,6 +1,6 @@
 - A developer is also a user.
 - Be users/developers centric, not trends centric.
-- If it's not usable, it's not secure. Version pinning yes, security through obscurity no.
+- If it's not usable, it's not secure. Version pinning yes, security through obscurity no, burdening users with useless actions no.
 - Less configuration means less complication.
 - Use principles such as the Law of Demeter or Separation Of Concerns as a mean to establish a clear definition of what each part of the software's job is. The cutting corners mindset should be antagonized. Own these hard to grasp concepts.
 - Try not to assume that the user is using X tool or Y software. Once the stack has left it up to the software, it's its job to maintain that good experience until it passes the torch itself.
