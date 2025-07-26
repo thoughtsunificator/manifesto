@@ -15,6 +15,6 @@
 - Source code is certainly, without any doubt, NOT a reasonable replacement for documentation.
 - Try to flow smoothly along whatever specifications govern your ecosystem.
 - Think add not replace. Reinforcing expectations and fixing flaws in existing systems is much more rewarding.
-- OSS is not much without openness, digital sovereignty from the ground up and interoperability.
+- OSS is not much without openness, digital sovereignty and interoperability.
 
 What about you? What's your manifesto?
