@@ -16,5 +16,6 @@
 - Try to flow smoothly along whatever specifications govern your ecosystem.
 - Think add not replace. Reinforcing expectations and fixing flaws in existing systems is much more rewarding.
 - I believe OSS is not much without openness, digital sovereignty and interoperability.
+- Composability is everything.
 
 What about you? What's your manifesto?
