@@ -1,3 +1,7 @@
+"If you gaze long into an abyss, the abyss also gazes into you"
+
+Well, I don't fear the abyss.
+
 - A developer is also a user.
 - Be users/developers centric, not trends centric.
 - If it's not usable, it's not secure. Version pinning yes, security through obscurity no, burdening users with useless actions no.
