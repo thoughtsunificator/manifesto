@@ -17,7 +17,7 @@ Well, I don't fear the abyss.
 - Making software is good, maintaining them alive is even better. Learn from the past by looking at the state of other OSS projects and what can be done (better) to keep things afloat.
 - Any software attempting to "solve" a problem bigger than himself should never be trusted in the first place. I consider Swiss Army knife softwares as evil. [Do one thing and do it well](https://cscie2x.dce.harvard.edu/hw/ch01s06.html).
 - Source code is certainly, without any doubt, NOT a reasonable replacement for documentation.
-- Try to flow smoothly along whatever specifications govern your ecosystem.
+- Try to flow smoothly along whatever specifications govern your ecosystem. No hearsay.
 - Think add not replace. Reinforcing expectations and fixing flaws in existing systems is much more rewarding.
 - I believe OSS is not much without openness, digital sovereignty and interoperability.
 - Composability is everything.
