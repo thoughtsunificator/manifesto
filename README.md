@@ -5,7 +5,7 @@ Well, I don't fear the abyss.
 - A developer is also a user.
 - Be users/developers centric, not trends centric.
 - If it's not usable, it's not secure. Version pinning yes, security through obscurity no, burdening users with useless actions no.
-- Less configuration means less complication.
+- Less configuration means less complication. Provide a very basic workflow that can be extended and is composable and interoperable instead of burderning user with unwanted features that requires unconfiguration.
 - Use ([wisely](https://solid-is-not-solid.com/)) principles such as the Separation Of Concerns as a mean to establish a clear definition of what each part of the software's job is. The cutting corners mindset should be antagonized. Own these hard to grasp concepts.
 - Try not to assume that the user is using X tool or Y software (do not infer). Once the stack has left it up to the software, it's its job to maintain that good experience until it itself passes the torch.
 - While experimenting is most certainly always a good idea, [try not to fall for the overcomplicate things mindset trap](http://motherfuckingwebsite.com/).
